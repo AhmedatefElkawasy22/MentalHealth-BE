@@ -22,8 +22,8 @@ namespace MentalHealth_BackEnd.Controllers
         private readonly IMapper _mapper;
         private readonly IUrlHelperService _urlHelperService;
         private readonly IHttpContextAccessor _httpContextAccessor;
-        private readonly UserManager<TherapistAndDoctor> _userManager;
-        public TherapistOrDoctorController(ApplicationDbContext context, IMapper mapper, IUrlHelperService urlHelperService, IHttpContextAccessor contextAccessor, UserManager<TherapistAndDoctor> userManager = null)
+        private readonly UserManager<User> _userManager;
+        public TherapistOrDoctorController(ApplicationDbContext context, IMapper mapper, IUrlHelperService urlHelperService, IHttpContextAccessor contextAccessor, UserManager<User> userManager)
         {
             _context = context;
             _mapper = mapper;
