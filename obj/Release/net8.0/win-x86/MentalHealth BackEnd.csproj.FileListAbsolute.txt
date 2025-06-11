@@ -1,0 +1,146 @@
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\spa.proxy.json
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\appsettings.Development.json
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\appsettings.json
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\MentalHealth BackEnd.staticwebassets.endpoints.json
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\MentalHealth BackEnd.exe
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\MentalHealth BackEnd.deps.json
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\MentalHealth BackEnd.runtimeconfig.json
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\MentalHealth BackEnd.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\MentalHealth BackEnd.pdb
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\AutoMapper.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Azure.Core.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Azure.Identity.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Humanizer.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\jose-jwt.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.AspNetCore.SpaProxy.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.CodeAnalysis.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.CodeAnalysis.CSharp.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.CodeAnalysis.Workspaces.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.Data.SqlClient.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.EntityFrameworkCore.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.EntityFrameworkCore.Design.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.Extensions.Caching.Memory.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.Extensions.DependencyInjection.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.Extensions.DependencyModel.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.Extensions.Logging.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.Extensions.Options.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.Identity.Client.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.IdentityModel.Abstractions.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.IdentityModel.Logging.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.IdentityModel.Protocols.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.IdentityModel.Tokens.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.OpenApi.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.SqlServer.Server.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.Win32.SystemEvents.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Mono.TextTemplating.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Newtonsoft.Json.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Swashbuckle.AspNetCore.Swagger.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\System.CodeDom.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\System.Composition.AttributedModel.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\System.Composition.Convention.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\System.Composition.Hosting.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\System.Composition.Runtime.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\System.Composition.TypedParts.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\System.Configuration.ConfigurationManager.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\System.Drawing.Common.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\System.IdentityModel.Tokens.Jwt.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\System.Memory.Data.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\System.Runtime.Caching.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\System.Security.Cryptography.ProtectedData.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\System.Security.Permissions.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\System.Windows.Extensions.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\cs\Microsoft.CodeAnalysis.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\de\Microsoft.CodeAnalysis.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\es\Microsoft.CodeAnalysis.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\fr\Microsoft.CodeAnalysis.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\it\Microsoft.CodeAnalysis.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\ja\Microsoft.CodeAnalysis.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\ko\Microsoft.CodeAnalysis.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\pl\Microsoft.CodeAnalysis.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\ru\Microsoft.CodeAnalysis.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\tr\Microsoft.CodeAnalysis.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\Microsoft.Data.SqlClient.SNI.dll
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\MentalHealth BackEnd.csproj.AssemblyReference.cache
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\spa.proxy.json
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\MentalHealth BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\MentalHealth BackEnd.AssemblyInfoInputs.cache
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\MentalHealth BackEnd.AssemblyInfo.cs
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\MentalHealth BackEnd.csproj.CoreCompileInputs.cache
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\MentalHealth BackEnd.MvcApplicationPartsAssemblyInfo.cs
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\MentalHealth BackEnd.MvcApplicationPartsAssemblyInfo.cache
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\MentalHealth BackEnd.sourcelink.json
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\scopedcss\bundle\MentalHealth BackEnd.styles.css
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\staticwebassets.build.json
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\staticwebassets.development.json
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\staticwebassets.build.endpoints.json
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\staticwebassets\msbuild.MentalHealth BackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\staticwebassets\msbuild.MentalHealth BackEnd.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\staticwebassets\msbuild.build.MentalHealth BackEnd.props
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\staticwebassets\msbuild.buildMultiTargeting.MentalHealth BackEnd.props
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\staticwebassets\msbuild.buildTransitive.MentalHealth BackEnd.props
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\staticwebassets.pack.json
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\staticwebassets.upToDateCheck.txt
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\MentalHe.EDA1630E.Up2Date
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\MentalHealth BackEnd.dll
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\refint\MentalHealth BackEnd.dll
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\MentalHealth BackEnd.pdb
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\MentalHealth BackEnd.genruntimeconfig.cache
+D:\VS file\Work\MentalHealthBackEnd\obj\Release\net8.0\win-x86\ref\MentalHealth BackEnd.dll
+D:\VS file\Work\MentalHealthBackEnd\bin\Release\net8.0\win-x86\MentalHealth BackEnd.staticwebassets.runtime.json

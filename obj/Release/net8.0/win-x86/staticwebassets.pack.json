@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\VS file\\Work\\MentalHealthBackEnd\\wwwroot\\Images_of_Licence\\Ahmed Atef_514165b5-e025-4b2e-b8ac-dfaab0e54626.jpg",
+      "PackagePath": "staticwebassets\\Images_of_Licence\\Ahmed Atef_514165b5-e025-4b2e-b8ac-dfaab0e54626.jpg"
+    },
+    {
+      "Id": "D:\\VS file\\Work\\MentalHealthBackEnd\\wwwroot\\Images_of_Licence\\Ahmed Atef_c177fdab-0911-4160-8eb9-f7802b3de34a.jpg",
+      "PackagePath": "staticwebassets\\Images_of_Licence\\Ahmed Atef_c177fdab-0911-4160-8eb9-f7802b3de34a.jpg"
+    },
+    {
+      "Id": "D:\\VS file\\Work\\MentalHealthBackEnd\\wwwroot\\Images_of_Licence\\ahmed atef_0ba00164-4c84-4108-af1e-36de1080512c.jpg",
+      "PackagePath": "staticwebassets\\Images_of_Licence\\ahmed atef_0ba00164-4c84-4108-af1e-36de1080512c.jpg"
+    },
+    {
+      "Id": "D:\\VS file\\Work\\MentalHealthBackEnd\\wwwroot\\Images_of_Licence\\ahmed atef_a67e249e-4a21-49d4-b64d-dfa28b796a38.jpg",
+      "PackagePath": "staticwebassets\\Images_of_Licence\\ahmed atef_a67e249e-4a21-49d4-b64d-dfa28b796a38.jpg"
+    },
+    {
+      "Id": "D:\\VS file\\Work\\MentalHealthBackEnd\\wwwroot\\Images_of_Licence\\ahmed atef_dafec583-9376-453a-8850-93872fd094e6.jpg",
+      "PackagePath": "staticwebassets\\Images_of_Licence\\ahmed atef_dafec583-9376-453a-8850-93872fd094e6.jpg"
+    },
+    {
+      "Id": "D:\\VS file\\Work\\MentalHealthBackEnd\\wwwroot\\Images_of_Licence\\ahmed atef_f327b330-074d-4453-abf3-a0f41fd0e2a4.jpg",
+      "PackagePath": "staticwebassets\\Images_of_Licence\\ahmed atef_f327b330-074d-4453-abf3-a0f41fd0e2a4.jpg"
+    },
+    {
+      "Id": "D:\\VS file\\Work\\MentalHealthBackEnd\\wwwroot\\Images_of_Posts\\first_3394aa87-112c-4f51-9808-cd5a9626cf80.jpg",
+      "PackagePath": "staticwebassets\\Images_of_Posts\\first_3394aa87-112c-4f51-9808-cd5a9626cf80.jpg"
+    },
+    {
+      "Id": "D:\\VS file\\Work\\MentalHealthBackEnd\\wwwroot\\Images_of_Posts\\first_713e7ca7-a7fc-469d-a849-b98e34949d0d.jpg",
+      "PackagePath": "staticwebassets\\Images_of_Posts\\first_713e7ca7-a7fc-469d-a849-b98e34949d0d.jpg"
+    },
+    {
+      "Id": "D:\\VS file\\Work\\MentalHealthBackEnd\\wwwroot\\Images_of_Posts\\test_36645be9-0b7d-4c68-b026-ef81735a7fbd.jpg",
+      "PackagePath": "staticwebassets\\Images_of_Posts\\test_36645be9-0b7d-4c68-b026-ef81735a7fbd.jpg"
+    },
+    {
+      "Id": "D:\\VS file\\Work\\MentalHealthBackEnd\\wwwroot\\Images_of_Posts\\test_fd6b1ea0-2a98-49cd-9ebb-0019800e2236.jpg",
+      "PackagePath": "staticwebassets\\Images_of_Posts\\test_fd6b1ea0-2a98-49cd-9ebb-0019800e2236.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.MentalHealth BackEnd.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.MentalHealth BackEnd.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.build.MentalHealth BackEnd.props",
+      "PackagePath": "build\\MentalHealth BackEnd.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.buildMultiTargeting.MentalHealth BackEnd.props",
+      "PackagePath": "buildMultiTargeting\\MentalHealth BackEnd.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.buildTransitive.MentalHealth BackEnd.props",
+      "PackagePath": "buildTransitive\\MentalHealth BackEnd.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

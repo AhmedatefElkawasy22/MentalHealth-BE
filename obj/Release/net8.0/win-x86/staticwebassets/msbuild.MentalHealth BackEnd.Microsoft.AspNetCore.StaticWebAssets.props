@@ -1,0 +1,184 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images_of_Licence\ahmed atef_0ba00164-4c84-4108-af1e-36de1080512c.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MentalHealth BackEnd</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MentalHealth BackEnd</BasePath>
+      <RelativePath>Images_of_Licence/ahmed atef_0ba00164-4c84-4108-af1e-36de1080512c.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>brcecehz7d</Fingerprint>
+      <Integrity>6XN/rAgRDObMYd/k7zIHcDA1j1wmeBdhHDmj5bif0T0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images_of_Licence\ahmed atef_0ba00164-4c84-4108-af1e-36de1080512c.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images_of_Licence\Ahmed Atef_514165b5-e025-4b2e-b8ac-dfaab0e54626.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MentalHealth BackEnd</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MentalHealth BackEnd</BasePath>
+      <RelativePath>Images_of_Licence/Ahmed Atef_514165b5-e025-4b2e-b8ac-dfaab0e54626.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>brcecehz7d</Fingerprint>
+      <Integrity>6XN/rAgRDObMYd/k7zIHcDA1j1wmeBdhHDmj5bif0T0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images_of_Licence\Ahmed Atef_514165b5-e025-4b2e-b8ac-dfaab0e54626.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images_of_Licence\ahmed atef_a67e249e-4a21-49d4-b64d-dfa28b796a38.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MentalHealth BackEnd</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MentalHealth BackEnd</BasePath>
+      <RelativePath>Images_of_Licence/ahmed atef_a67e249e-4a21-49d4-b64d-dfa28b796a38.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>brcecehz7d</Fingerprint>
+      <Integrity>6XN/rAgRDObMYd/k7zIHcDA1j1wmeBdhHDmj5bif0T0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images_of_Licence\ahmed atef_a67e249e-4a21-49d4-b64d-dfa28b796a38.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images_of_Licence\Ahmed Atef_c177fdab-0911-4160-8eb9-f7802b3de34a.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MentalHealth BackEnd</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MentalHealth BackEnd</BasePath>
+      <RelativePath>Images_of_Licence/Ahmed Atef_c177fdab-0911-4160-8eb9-f7802b3de34a.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>brcecehz7d</Fingerprint>
+      <Integrity>6XN/rAgRDObMYd/k7zIHcDA1j1wmeBdhHDmj5bif0T0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images_of_Licence\Ahmed Atef_c177fdab-0911-4160-8eb9-f7802b3de34a.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images_of_Licence\ahmed atef_dafec583-9376-453a-8850-93872fd094e6.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MentalHealth BackEnd</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MentalHealth BackEnd</BasePath>
+      <RelativePath>Images_of_Licence/ahmed atef_dafec583-9376-453a-8850-93872fd094e6.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>brcecehz7d</Fingerprint>
+      <Integrity>6XN/rAgRDObMYd/k7zIHcDA1j1wmeBdhHDmj5bif0T0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images_of_Licence\ahmed atef_dafec583-9376-453a-8850-93872fd094e6.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images_of_Licence\ahmed atef_f327b330-074d-4453-abf3-a0f41fd0e2a4.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MentalHealth BackEnd</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MentalHealth BackEnd</BasePath>
+      <RelativePath>Images_of_Licence/ahmed atef_f327b330-074d-4453-abf3-a0f41fd0e2a4.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>brcecehz7d</Fingerprint>
+      <Integrity>6XN/rAgRDObMYd/k7zIHcDA1j1wmeBdhHDmj5bif0T0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images_of_Licence\ahmed atef_f327b330-074d-4453-abf3-a0f41fd0e2a4.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images_of_Posts\first_3394aa87-112c-4f51-9808-cd5a9626cf80.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MentalHealth BackEnd</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MentalHealth BackEnd</BasePath>
+      <RelativePath>Images_of_Posts/first_3394aa87-112c-4f51-9808-cd5a9626cf80.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ta964ig9lz</Fingerprint>
+      <Integrity>az9Dvv/+eEapEklJwcwSzC3hfQbcg5wAI4hj4q46E6o=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images_of_Posts\first_3394aa87-112c-4f51-9808-cd5a9626cf80.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images_of_Posts\first_713e7ca7-a7fc-469d-a849-b98e34949d0d.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MentalHealth BackEnd</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MentalHealth BackEnd</BasePath>
+      <RelativePath>Images_of_Posts/first_713e7ca7-a7fc-469d-a849-b98e34949d0d.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ta964ig9lz</Fingerprint>
+      <Integrity>az9Dvv/+eEapEklJwcwSzC3hfQbcg5wAI4hj4q46E6o=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images_of_Posts\first_713e7ca7-a7fc-469d-a849-b98e34949d0d.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images_of_Posts\test_36645be9-0b7d-4c68-b026-ef81735a7fbd.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MentalHealth BackEnd</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MentalHealth BackEnd</BasePath>
+      <RelativePath>Images_of_Posts/test_36645be9-0b7d-4c68-b026-ef81735a7fbd.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>lvjtciv02p</Fingerprint>
+      <Integrity>4Q0BklnTXx09sWMJ+cuy1njHuxQO0j+wQ2Ytjp2wleY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images_of_Posts\test_36645be9-0b7d-4c68-b026-ef81735a7fbd.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images_of_Posts\test_fd6b1ea0-2a98-49cd-9ebb-0019800e2236.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MentalHealth BackEnd</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MentalHealth BackEnd</BasePath>
+      <RelativePath>Images_of_Posts/test_fd6b1ea0-2a98-49cd-9ebb-0019800e2236.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>lvjtciv02p</Fingerprint>
+      <Integrity>4Q0BklnTXx09sWMJ+cuy1njHuxQO0j+wQ2Ytjp2wleY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images_of_Posts\test_fd6b1ea0-2a98-49cd-9ebb-0019800e2236.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>
