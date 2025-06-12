@@ -2,12 +2,9 @@
 using Microsoft.EntityFrameworkCore;
 using MentalHealth_BackEnd.DTO;
 using MentalHealth_BackEnd.Models;
-using System.Threading.Tasks;
 using MentalHealth_BackEnd.DTO.Therapist;
-using MentalHealth_BackEnd.DTO.Specialization;
 using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 using System.Security.Claims;
 using MentalHealth_BackEnd.helpers;
 using Microsoft.AspNetCore.Identity;

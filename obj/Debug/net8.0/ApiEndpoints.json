@@ -804,6 +804,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "MentalHealth_BackEnd.Controllers.UserController",
+    "Method": "GetDataOfCurrentUserAsync",
+    "RelativePath": "api/User/GetDataOfCurrentUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "MentalHealth_BackEnd.Controllers.VisitorController",
     "Method": "GetAllVisitors",
     "RelativePath": "api/Visitor",

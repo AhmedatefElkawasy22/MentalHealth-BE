@@ -1305,6 +1305,18 @@
         }
       }
     },
+    "/api/User/GetDataOfCurrentUser": {
+      "get": {
+        "tags": [
+          "User"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Visitor": {
       "get": {
         "tags": [
