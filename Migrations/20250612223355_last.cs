@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace MentalHealth_BackEnd.Migrations
 {
     /// <inheritdoc />
-    public partial class host : Migration
+    public partial class last : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -108,27 +108,26 @@ namespace MentalHealth_BackEnd.Migrations
                 name: "Appointments",
                 columns: table => new
                 {
-                    AppointmentId = table.Column<int>(type: "int", nullable: false)
+                    Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    VisitorId = table.Column<int>(type: "int", nullable: false),
-                    VisitorId1 = table.Column<string>(type: "nvarchar(450)", nullable: false),
-                    TherapistId = table.Column<int>(type: "int", nullable: false),
-                    TherapistId1 = table.Column<string>(type: "nvarchar(450)", nullable: true),
+                    UserId = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    TherapistId = table.Column<string>(type: "nvarchar(450)", nullable: false),
                     AppointmentDate = table.Column<DateTime>(type: "datetime2", nullable: false),
                     Notes = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Status = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    Status = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Appointments", x => x.AppointmentId);
+                    table.PrimaryKey("PK_Appointments", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Appointments_AspNetUsers_TherapistId1",
-                        column: x => x.TherapistId1,
+                        name: "FK_Appointments_AspNetUsers_TherapistId",
+                        column: x => x.TherapistId,
                         principalTable: "AspNetUsers",
-                        principalColumn: "Id");
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_Appointments_AspNetUsers_VisitorId1",
-                        column: x => x.VisitorId1,
+                        name: "FK_Appointments_AspNetUsers_UserId",
+                        column: x => x.UserId,
                         principalTable: "AspNetUsers",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
@@ -330,14 +329,14 @@ namespace MentalHealth_BackEnd.Migrations
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_Appointments_TherapistId1",
+                name: "IX_Appointments_TherapistId",
                 table: "Appointments",
-                column: "TherapistId1");
+                column: "TherapistId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Appointments_VisitorId1",
+                name: "IX_Appointments_UserId",
                 table: "Appointments",
-                column: "VisitorId1");
+                column: "UserId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_AspNetRoleClaims_RoleId",

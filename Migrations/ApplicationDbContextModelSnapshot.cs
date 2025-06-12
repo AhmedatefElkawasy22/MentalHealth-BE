@@ -24,11 +24,11 @@ namespace MentalHealth_BackEnd.Migrations
 
             modelBuilder.Entity("MentalHealth_BackEnd.Models.Appointment", b =>
                 {
-                    b.Property<int>("AppointmentId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("AppointmentId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<DateTime>("AppointmentDate")
                         .HasColumnType("datetime2");
@@ -37,28 +37,22 @@ namespace MentalHealth_BackEnd.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Status")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("TherapistId")
+                    b.Property<int>("Status")
                         .HasColumnType("int");
 
-                    b.Property<string>("TherapistId1")
-                        .HasColumnType("nvarchar(450)");
-
-                    b.Property<int>("VisitorId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("VisitorId1")
+                    b.Property<string>("TherapistId")
                         .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
-                    b.HasKey("AppointmentId");
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
 
-                    b.HasIndex("TherapistId1");
+                    b.HasKey("Id");
 
-                    b.HasIndex("VisitorId1");
+                    b.HasIndex("TherapistId");
+
+                    b.HasIndex("UserId");
 
                     b.ToTable("Appointments");
                 });
@@ -487,19 +481,21 @@ namespace MentalHealth_BackEnd.Migrations
 
             modelBuilder.Entity("MentalHealth_BackEnd.Models.Appointment", b =>
                 {
-                    b.HasOne("MentalHealth_BackEnd.Models.TherapistAndDoctor", "Therapist")
+                    b.HasOne("MentalHealth_BackEnd.Models.TherapistAndDoctor", "TherapistAndDoctor")
                         .WithMany()
-                        .HasForeignKey("TherapistId1");
-
-                    b.HasOne("MentalHealth_BackEnd.Models.Visitor", "Visitor")
-                        .WithMany()
-                        .HasForeignKey("VisitorId1")
+                        .HasForeignKey("TherapistId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Therapist");
+                    b.HasOne("MentalHealth_BackEnd.Models.User", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
-                    b.Navigation("Visitor");
+                    b.Navigation("TherapistAndDoctor");
+
+                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("MentalHealth_BackEnd.Models.Certificate", b =>

@@ -727,7 +727,7 @@
   },
   {
     "ContainingType": "MentalHealth_BackEnd.Controllers.TherapistOrDoctorController",
-    "Method": "GetNumberofDoctors",
+    "Method": "GetAllDoctorsOrTherapistsNotApproved",
     "RelativePath": "api/TherapistOrDoctor/GetAllDoctorsOrTherapistsNotApproved",
     "HttpMethod": "GET",
     "IsController": true,

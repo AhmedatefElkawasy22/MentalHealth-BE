@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Djv5matlX55qeK0hZtbjW8hvUMeklS7rPQzylgfpdpk=",
+  "Hash": "G3s9pX5hV4rzpA3OVN+aAR4iHdmW+MsoGzqCFbF0KkA=",
   "Source": "MentalHealth BackEnd",
   "BasePath": "_content/MentalHealth BackEnd",
   "Mode": "Default",
@@ -183,6 +183,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images_of_Posts\\first_713e7ca7-a7fc-469d-a849-b98e34949d0d.jpg"
+    },
+    {
+      "Identity": "D:\\VS file\\Work\\MentalHealthBackEnd\\wwwroot\\Images_of_Posts\\test_22dd3a4e-92a4-4fc6-a9e7-4c3314230ba8.jpg",
+      "SourceId": "MentalHealth BackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\VS file\\Work\\MentalHealthBackEnd\\wwwroot\\",
+      "BasePath": "_content/MentalHealth BackEnd",
+      "RelativePath": "Images_of_Posts/test_22dd3a4e-92a4-4fc6-a9e7-4c3314230ba8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ta964ig9lz",
+      "Integrity": "az9Dvv/+eEapEklJwcwSzC3hfQbcg5wAI4hj4q46E6o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images_of_Posts\\test_22dd3a4e-92a4-4fc6-a9e7-4c3314230ba8.jpg"
     },
     {
       "Identity": "D:\\VS file\\Work\\MentalHealthBackEnd\\wwwroot\\Images_of_Posts\\test_36645be9-0b7d-4c68-b026-ef81735a7fbd.jpg",
@@ -877,6 +898,88 @@
         {
           "Name": "label",
           "Value": "Images_of_Posts/first_713e7ca7-a7fc-469d-a849-b98e34949d0d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-az9Dvv/+eEapEklJwcwSzC3hfQbcg5wAI4hj4q46E6o="
+        }
+      ]
+    },
+    {
+      "Route": "Images_of_Posts/test_22dd3a4e-92a4-4fc6-a9e7-4c3314230ba8.jpg",
+      "AssetFile": "D:\\VS file\\Work\\MentalHealthBackEnd\\wwwroot\\Images_of_Posts\\test_22dd3a4e-92a4-4fc6-a9e7-4c3314230ba8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"az9Dvv/+eEapEklJwcwSzC3hfQbcg5wAI4hj4q46E6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 21:58:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-az9Dvv/+eEapEklJwcwSzC3hfQbcg5wAI4hj4q46E6o="
+        }
+      ]
+    },
+    {
+      "Route": "Images_of_Posts/test_22dd3a4e-92a4-4fc6-a9e7-4c3314230ba8.ta964ig9lz.jpg",
+      "AssetFile": "D:\\VS file\\Work\\MentalHealthBackEnd\\wwwroot\\Images_of_Posts\\test_22dd3a4e-92a4-4fc6-a9e7-4c3314230ba8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"az9Dvv/+eEapEklJwcwSzC3hfQbcg5wAI4hj4q46E6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 21:58:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ta964ig9lz"
+        },
+        {
+          "Name": "label",
+          "Value": "Images_of_Posts/test_22dd3a4e-92a4-4fc6-a9e7-4c3314230ba8.jpg"
         },
         {
           "Name": "integrity",

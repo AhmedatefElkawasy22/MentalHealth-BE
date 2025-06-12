@@ -34,6 +34,7 @@ namespace MentalHealth_BackEnd.Controllers
             var Therapists = await _context.TherapistsAndDoctors.Include(t => t.Specialization).Include(c => c.certificates).ToListAsync();
             var result = Therapists.Select(therapist => new
             {
+                therapist.Id,
                 therapist.Email,
                 therapist.Name,
                 therapist.City,
@@ -63,7 +64,8 @@ namespace MentalHealth_BackEnd.Controllers
                 return NotFound();
 
             return Ok(new TherapistAndDoctor
-            {
+            { 
+                Id=therapist.Id,
                 Email = therapist.Email,
                 Name = therapist.Name,
                 City = therapist.City,
@@ -75,7 +77,6 @@ namespace MentalHealth_BackEnd.Controllers
                 DateJoined = therapist.DateJoined,
             });
         }
-
 
         [HttpPut("Edit/{id}")]
         public async Task<IActionResult> Edit(int id, [FromForm] TherapistUpdateDto updateTherabist)
@@ -92,7 +93,6 @@ namespace MentalHealth_BackEnd.Controllers
 
             return Ok(therapist);
         }
-
 
         [HttpDelete("Delete/{id}")]
         public async Task<IActionResult> Delete(int id)
@@ -352,7 +352,7 @@ namespace MentalHealth_BackEnd.Controllers
         }
 
         [HttpGet("GetAllDoctorsOrTherapistsNotApproved")]
-        public IActionResult GetNumberofDoctors() {
+        public IActionResult GetAllDoctorsOrTherapistsNotApproved() {
             return Ok(_context.TherapistsAndDoctors.Include(e=>e.Specialization).Where(t => !t.IsApproved).Select(t => new
             {
                 t.Id,

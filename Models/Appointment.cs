@@ -1,10 +1,12 @@
 ﻿using MentalHealth_BackEnd.helpers;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace MentalHealth_BackEnd.Models
 {
     public class Appointment
     {
+        [Key]
         public int Id { get; set; }
         [ForeignKey("User")]
         public string UserId { get; set; } 

@@ -5,7 +5,7 @@
 namespace MentalHealth_BackEnd.Migrations
 {
     /// <inheritdoc />
-    public partial class local : Migration
+    public partial class last2 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
