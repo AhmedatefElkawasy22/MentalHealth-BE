@@ -142,7 +142,7 @@
         }
       }
     },
-    "/api/Appointments/therapist/{GetAllAppointmentsByTherapistOrDoctorId}": {
+    "/api/Appointments/GetAllAppointmentsByTherapistOrDoctorId/{therapistId}": {
       "get": {
         "tags": [
           "Appointments"
@@ -150,13 +150,6 @@
         "parameters": [
           {
             "name": "therapistId",
-            "in": "query",
-            "schema": {
-              "type": "string"
-            }
-          },
-          {
-            "name": "GetAllAppointmentsByTherapistOrDoctorId",
             "in": "path",
             "required": true,
             "schema": {
@@ -1454,10 +1447,6 @@
           "content": {
             "type": "string",
             "nullable": true
-          },
-          "commentedAt": {
-            "type": "string",
-            "format": "date-time"
           }
         },
         "additionalProperties": false
@@ -1493,10 +1482,6 @@
           "postId": {
             "type": "integer",
             "format": "int32"
-          },
-          "reactedAt": {
-            "type": "string",
-            "format": "date-time"
           },
           "reactionType": {
             "$ref": "#/components/schemas/TypeOfReact"

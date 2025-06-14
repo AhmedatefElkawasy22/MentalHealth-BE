@@ -4,6 +4,5 @@
     {
         public int PostId { get; set; }
         public string Content { get; set; }
-        public DateTime CommentedAt { get; set; } = DateTime.UtcNow;
     }
 }

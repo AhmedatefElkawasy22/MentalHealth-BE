@@ -7,28 +7,52 @@
       "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|d:\\vs file\\work\\mentalhealthbackend\\dto\\appointment\\appointmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:dto\\appointment\\appointmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|d:\\vs file\\work\\mentalhealthbackend\\dto\\react\u0026comment\\addreactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:dto\\react\u0026comment\\addreactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|d:\\vs file\\work\\mentalhealthbackend\\helpers\\statusofappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:helpers\\statusofappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|d:\\vs file\\work\\mentalhealthbackend\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|d:\\vs file\\work\\mentalhealthbackend\\dto\\uploadimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:dto\\uploadimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|d:\\vs file\\work\\mentalhealthbackend\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|d:\\vs file\\work\\mentalhealthbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|d:\\vs file\\work\\mentalhealthbackend\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|d:\\vs file\\work\\mentalhealthbackend\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|d:\\vs file\\work\\mentalhealthbackend\\dto\\auth\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:dto\\auth\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|d:\\vs file\\work\\mentalhealthbackend\\dto\\react\u0026comment\\addcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:dto\\react\u0026comment\\addcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|d:\\vs file\\work\\mentalhealthbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|d:\\vs file\\work\\mentalhealthbackend\\dto\\appointment\\appointmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:dto\\appointment\\appointmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|d:\\vs file\\work\\mentalhealthbackend\\models\\therapistanddoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:models\\therapistanddoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|d:\\vs file\\work\\mentalhealthbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|d:\\vs file\\work\\mentalhealthbackend\\helpers\\statusofappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:helpers\\statusofappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|d:\\vs file\\work\\mentalhealthbackend\\dto\\appointment\\appointmentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,24 +63,8 @@
       "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|d:\\vs file\\work\\mentalhealthbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|d:\\vs file\\work\\mentalhealthbackend\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|d:\\vs file\\work\\mentalhealthbackend\\controllers\\visitorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:controllers\\visitorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|d:\\vs file\\work\\mentalhealthbackend\\dto\\auth\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:dto\\auth\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|d:\\vs file\\work\\mentalhealthbackend\\dto\\uploadimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39BE0060-FE38-44B3-ADE2-063417B99202}|MentalHealth BackEnd.csproj|solutionrelative:dto\\uploadimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,19 +74,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
+              "Title": "AddReactDTO.cs",
+              "DocumentMoniker": "D:\\VS file\\Work\\MentalHealthBackEnd\\DTO\\React\u0026Comment\\AddReactDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\React\u0026Comment\\AddReactDTO.cs",
+              "ToolTip": "D:\\VS file\\Work\\MentalHealthBackEnd\\DTO\\React\u0026Comment\\AddReactDTO.cs",
+              "RelativeToolTip": "DTO\\React\u0026Comment\\AddReactDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:44:35.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddCommentDTO.cs",
+              "DocumentMoniker": "D:\\VS file\\Work\\MentalHealthBackEnd\\DTO\\React\u0026Comment\\AddCommentDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\React\u0026Comment\\AddCommentDTO.cs",
+              "ToolTip": "D:\\VS file\\Work\\MentalHealthBackEnd\\DTO\\React\u0026Comment\\AddCommentDTO.cs",
+              "RelativeToolTip": "DTO\\React\u0026Comment\\AddCommentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:43:28.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\VS file\\Work\\MentalHealthBackEnd\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "D:\\VS file\\Work\\MentalHealthBackEnd\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwEoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T23:58:45.616Z"
+              "WhenOpened": "2025-06-11T23:58:45.616Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -88,40 +123,40 @@
               "RelativeDocumentMoniker": "Controllers\\AppointmentsController.cs",
               "ToolTip": "D:\\VS file\\Work\\MentalHealthBackEnd\\Controllers\\AppointmentsController.cs",
               "RelativeToolTip": "Controllers\\AppointmentsController.cs",
-              "ViewState": "AgIAAMEAAAAAAAAAAAAgwNYAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAqwPwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T23:59:02.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "RegisterUserDTO.cs",
               "DocumentMoniker": "D:\\VS file\\Work\\MentalHealthBackEnd\\DTO\\Auth\\RegisterUserDTO.cs",
               "RelativeDocumentMoniker": "DTO\\Auth\\RegisterUserDTO.cs",
               "ToolTip": "D:\\VS file\\Work\\MentalHealthBackEnd\\DTO\\Auth\\RegisterUserDTO.cs",
               "RelativeToolTip": "DTO\\Auth\\RegisterUserDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwCEAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T00:48:44.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "PostController.cs",
               "DocumentMoniker": "D:\\VS file\\Work\\MentalHealthBackEnd\\Controllers\\PostController.cs",
               "RelativeDocumentMoniker": "Controllers\\PostController.cs",
               "ToolTip": "D:\\VS file\\Work\\MentalHealthBackEnd\\Controllers\\PostController.cs",
               "RelativeToolTip": "Controllers\\PostController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T00:16:38.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "AppointmentUpdateDto.cs",
               "DocumentMoniker": "D:\\VS file\\Work\\MentalHealthBackEnd\\DTO\\Appointment\\AppointmentUpdateDto.cs",
               "RelativeDocumentMoniker": "DTO\\Appointment\\AppointmentUpdateDto.cs",
@@ -134,20 +169,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "AppointmentCreateDto.cs",
               "DocumentMoniker": "D:\\VS file\\Work\\MentalHealthBackEnd\\DTO\\Appointment\\AppointmentCreateDto.cs",
               "RelativeDocumentMoniker": "DTO\\Appointment\\AppointmentCreateDto.cs",
               "ToolTip": "D:\\VS file\\Work\\MentalHealthBackEnd\\DTO\\Appointment\\AppointmentCreateDto.cs",
               "RelativeToolTip": "DTO\\Appointment\\AppointmentCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T23:56:53.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "StatusOfAppointment.cs",
               "DocumentMoniker": "D:\\VS file\\Work\\MentalHealthBackEnd\\helpers\\StatusOfAppointment.cs",
               "RelativeDocumentMoniker": "helpers\\StatusOfAppointment.cs",
@@ -155,25 +190,24 @@
               "RelativeToolTip": "helpers\\StatusOfAppointment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T23:52:55.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T23:52:55.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Appointment.cs",
               "DocumentMoniker": "D:\\VS file\\Work\\MentalHealthBackEnd\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "Models\\Appointment.cs",
               "ToolTip": "D:\\VS file\\Work\\MentalHealthBackEnd\\Models\\Appointment.cs",
               "RelativeToolTip": "Models\\Appointment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T23:48:45.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
               "Title": "UploadImageDTO.cs",
               "DocumentMoniker": "D:\\VS file\\Work\\MentalHealthBackEnd\\DTO\\UploadImageDTO.cs",
               "RelativeDocumentMoniker": "DTO\\UploadImageDTO.cs",
@@ -186,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\VS file\\Work\\MentalHealthBackEnd\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -199,20 +233,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\VS file\\Work\\MentalHealthBackEnd\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
               "ToolTip": "D:\\VS file\\Work\\MentalHealthBackEnd\\Models\\ApplicationDbContext.cs",
               "RelativeToolTip": "Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAIAywBIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T20:30:29.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\VS file\\Work\\MentalHealthBackEnd\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -225,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "VisitorsController.cs",
               "DocumentMoniker": "D:\\VS file\\Work\\MentalHealthBackEnd\\Controllers\\VisitorsController.cs",
               "RelativeDocumentMoniker": "Controllers\\VisitorsController.cs",
@@ -237,13 +271,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "TherapistAndDoctor.cs",
               "DocumentMoniker": "D:\\VS file\\Work\\MentalHealthBackEnd\\Models\\TherapistAndDoctor.cs",
               "RelativeDocumentMoniker": "Models\\TherapistAndDoctor.cs",
               "ToolTip": "D:\\VS file\\Work\\MentalHealthBackEnd\\Models\\TherapistAndDoctor.cs",
               "RelativeToolTip": "Models\\TherapistAndDoctor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T19:46:53.402Z",
               "EditorCaption": ""

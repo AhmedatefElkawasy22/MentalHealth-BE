@@ -39,8 +39,9 @@ namespace MentalHealth_BackEnd.Controllers
                 Title = p.Title,
                 Content = p.Content,
                 CreatedAt = p.CreatedAt,
-                ImagePath = p.ImagePath,
-                UserName = p.User.UserName,
+                Image = p.ImagePath,
+                Name = p.User.Name,
+                ProfilePicture = p.User.pathProfilePicture,
                 CommentsCount = p.comments.Count,
                 ReactsCount = p.reacts.Count,
             }));
@@ -235,7 +236,7 @@ namespace MentalHealth_BackEnd.Controllers
             _context.ReactsOnPosts.Add(new ReactOnPost
             {
                 PostId = react.PostId,
-                ReactedAt = react.ReactedAt,
+                ReactedAt = DateTime.Now,
                 ReactionType = react.ReactionType,
                 UserId = _httpContextAccessor.HttpContext?.User.FindFirstValue(ClaimTypes.NameIdentifier)
             });
@@ -254,7 +255,7 @@ namespace MentalHealth_BackEnd.Controllers
             {
                 PostId = comment.PostId,
                 Content = comment.Content,
-                DateCreated = comment.CommentedAt,
+                DateCreated = DateTime.Now,
                 UserId = _httpContextAccessor.HttpContext?.User.FindFirstValue(ClaimTypes.NameIdentifier)
             });
             await _context.SaveChangesAsync();
@@ -275,7 +276,7 @@ namespace MentalHealth_BackEnd.Controllers
                 r.Id,
                 r.ReactionType,
                 r.ReactedAt,
-                UserName = r.User.UserName
+                Name = r.User.Name
             }));
         }
 
@@ -293,7 +294,7 @@ namespace MentalHealth_BackEnd.Controllers
                 c.Id,
                 c.Content,
                 c.DateCreated,
-                UserName = c.User.UserName
+                Name = c.User.Name
             }));
         }
 

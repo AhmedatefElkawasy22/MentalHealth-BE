@@ -19,4 +19,4 @@ namespace MentalHealth_BackEnd.Models
         public StatusOfAppointment Status { get; set; } // e.g., "Pending", "Confirmed", "Cancelled"
 
     }
-}
+}  

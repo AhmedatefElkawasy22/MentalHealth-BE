@@ -44,8 +44,7 @@ namespace MentalHealth_BackEnd.Controllers
             _context.Appointments.Add(appointment);
             await _context.SaveChangesAsync();
 
-            var readDto = _mapper.Map<AppointmentReadDto>(appointment);
-            return CreatedAtAction(nameof(GetAppointment), new { id = readDto.AppointmentId }, readDto);
+            return Ok("The appointment has been booked successfully.");
         }
 
         // GET: api/Appointments/{id}
@@ -161,7 +160,7 @@ namespace MentalHealth_BackEnd.Controllers
             return Ok(new { UpcomingCount = count });
         }
 
-        [HttpGet("therapist/{GetAllAppointmentsByTherapistOrDoctorId}")]
+        [HttpGet("GetAllAppointmentsByTherapistOrDoctorId/{therapistId}")]
         [Authorize(Roles = "Therapist,Doctor")]
         public async Task<IActionResult> GetAllAppointmentsByTherapistOrDoctorId(string therapistId)
         {
@@ -224,6 +223,59 @@ namespace MentalHealth_BackEnd.Controllers
                     appointment.TherapistAndDoctor.Name,
                     appointment.TherapistAndDoctor.Specialization
                 }
+            });
+
+            return Ok(result);
+        }
+
+
+        [HttpGet("GetNextAppointmentOfCurrentUser")]
+        public async Task<IActionResult> GetNextAppointmentOfCurrentUserAsync()
+        {
+            string currentUserID = _httpContextAccessor.HttpContext?.User.FindFirstValue(ClaimTypes.NameIdentifier);
+
+            var appointment = await _context.Appointments
+                .Include(a => a.TherapistAndDoctor)
+                .ThenInclude(e => e.Specialization)
+                .Where(a => a.UserId == currentUserID && a.AppointmentDate >= DateTime.Today)
+                .OrderBy(a => a.AppointmentDate)
+                .FirstOrDefaultAsync();
+
+            if (appointment == null)
+                return NotFound("No upcoming session was found.");
+
+            return Ok(new
+            {
+                Date = appointment.AppointmentDate.ToString("dd-MM-yyyy"),
+                Time = appointment.AppointmentDate.ToString("hh:mm tt"),
+                Doctor = appointment.TherapistAndDoctor.Name,
+                Specialization = appointment.TherapistAndDoctor.Specialization.Name,
+            });
+        }
+
+
+        [HttpGet("GetAppointmentHistoryOfCurrentUser")]
+        public async Task<IActionResult> GetAppointmentHistoryOfCurrentUserAsync()
+        {
+            string currentUserID = _httpContextAccessor.HttpContext?.User.FindFirstValue(ClaimTypes.NameIdentifier);
+
+            var appointments = await _context.Appointments
+                .Include(a => a.TherapistAndDoctor)
+                .ThenInclude(e => e.Specialization)
+                .Where(a => a.UserId == currentUserID && a.AppointmentDate < DateTime.Today)
+                .OrderByDescending(a => a.AppointmentDate)
+                .ToListAsync();
+
+            if (appointments == null || !appointments.Any())
+                return NotFound("No previous sessions were found.");
+
+            var result = appointments.Select(a => new
+            {
+                Date = a.AppointmentDate.ToString("dd-MM-yyyy"),
+                Time = a.AppointmentDate.ToString("hh:mm tt"),
+                Doctor = a.TherapistAndDoctor.Name,
+                NoteOfSession = a.Notes,
+                Specialization = a.TherapistAndDoctor.Specialization.Name,
             });
 
             return Ok(result);

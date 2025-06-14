@@ -80,6 +80,22 @@
   },
   {
     "ContainingType": "MentalHealth_BackEnd.Controllers.AppointmentsController",
+    "Method": "GetAllAppointmentsByTherapistOrDoctorId",
+    "RelativePath": "api/Appointments/GetAllAppointmentsByTherapistOrDoctorId/{therapistId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "therapistId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MentalHealth_BackEnd.Controllers.AppointmentsController",
     "Method": "GetAppointmentsOfCurrentUser",
     "RelativePath": "api/Appointments/GetAppointmentsOfCurrentUser",
     "HttpMethod": "GET",
@@ -96,27 +112,6 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "MentalHealth_BackEnd.Controllers.AppointmentsController",
-    "Method": "GetAllAppointmentsByTherapistOrDoctorId",
-    "RelativePath": "api/Appointments/therapist/{GetAllAppointmentsByTherapistOrDoctorId}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "therapistId",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "GetAllAppointmentsByTherapistOrDoctorId",
-        "Type": "",
-        "IsRequired": true
-      }
-    ],
     "ReturnTypes": []
   },
   {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MentalHealth BackEnd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f69daa6ba3ee84b0d87f47ddee5d25a60c7c758")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fee9841d77847d033ca55634c020eb734987026")]
 [assembly: System.Reflection.AssemblyProductAttribute("MentalHealth BackEnd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MentalHealth BackEnd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
